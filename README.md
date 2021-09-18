@@ -4,6 +4,7 @@
 - 📫 How to reach me: You can reach me via my email [bhargavkadali39@gmail.com]
 -  🌹 Gaining a better understanding of Python modules and how they function.
 - 💪 Part of courage is simple consistency.
+- 📆 31 days of Python. (8th sep to 7th oct)
 <!--
 **BhargavKadali39/BhargavKadali39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
