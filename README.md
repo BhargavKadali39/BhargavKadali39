@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on newly emerging Python modules.
-- 🌱 I’m currently learning Python and web development.
-- 📫 How to reach me: You can reach me through my email bhargavkadali39@gmail.com
-- 🌹  Trying to learn more about Python's modules and it's usability.
+- 🔭 Right now, I'm working on some intriguing Python modules.
+- 🌱 Python and web development are two things I'm learning right now.
+- 📫 How to reach me: You can reach me via my email [bhargavkadali39@gmail.com]
+-  🌹 Gaining a better understanding of Python modules and how they function.
 - 💪 Part of courage is simple consistency.
 <!--
 **BhargavKadali39/BhargavKadali39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
