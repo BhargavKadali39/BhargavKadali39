@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 Right now, I'm working on some fascinating Python modules.
-- 🌱 Python and web development are two things I'm learning right now.
+- 🌱 Python and web development are two things I'm learning at the moment.
 - 📫 How to reach me: You can reach me via my email [bhargavkadali39@gmail.com]
 - 🌹  Gaining a better understanding of Python modules and how they function.
 - ♾  Daily new repo with some intresting python module.
