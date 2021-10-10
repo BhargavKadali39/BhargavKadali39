@@ -2,10 +2,10 @@
 - 🔭 Right now, I'm working on some fascinating Python modules.
 - 🌱 Python and web development are two things I'm learning at the moment.
 - 📫 How to reach me: You can reach me via my email [bhargavkadali39@gmail.com]
-- 🌹  Gaining a better understanding of Python modules and how they function.
-- ♾  Daily new repo with some intresting python module.
+- 🌹  Gaining a better understanding on Python and how it servers.
+- ♾  Daily new repo with some intresting python program.
 - 💪 Part of courage is simple consistency.
-- 📆 31 days of Python. (8th sep to 8th oct)
+- 📆 Completed 31 days of Python. (8th sep to 8th oct)
 <!--
 **BhargavKadali39/BhargavKadali39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
