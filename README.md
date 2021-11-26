@@ -1,9 +1,9 @@
 ### Hi there 👋
 - 🔭 Right now, I'm working on some fascinating Python modules.
 - 🌱 Python and web development are two things I'm learning at the moment.
-- 📫 How to reach me: Via my Email [bhargavkadali39@gmail.com]
+- 📫 How to reach me : Via my Email [bhargavkadali39@gmail.com]
 - 🌹  Gaining a better understanding on Python and how it serves.
-- ♾  Daily new repo with some intresting python program.
+- ♾  Aim to daily upload new repo with some intresting python program.
 - 💪 " Part of courage is simple consistency ".
 - 📆 Completed 31 days of Python. (8th sep to 8th oct)
 
