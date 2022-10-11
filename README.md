@@ -3,7 +3,6 @@
 - 🌱 Python and web development are two things I'm learning at the moment.
 - 📫 How to reach me : My Email [bhargavkadali39@gmail.com]
 - 🌹  Gaining a better understanding on Python and how it serves.
-- ♾  Aim to daily upload new repo with some intresting things.
 - 💪 " Part of courage is simple consistency "
 - 📆 Completed 31 days of Python. (8th sep to 8th oct)
 - My [code Pen🖊️](https://codepen.io/bhargavkadali39) id 
@@ -25,4 +24,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ♾  Aim to daily upload new repo with some intresting things.
 -->
